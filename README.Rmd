@@ -1,9 +1,8 @@
 ---
-title: "Codebook"
+title: "README"
 author: "Daniel Veit"
 date: "June 21, 2020"
-output:   html_document:
-keep_md: true
+output: html_document
 ---
 
 **This repository contains the data and scripts for the wearable final R programming project for the JHU Data Science "Data Cleaning Course."**
