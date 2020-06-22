@@ -13,7 +13,7 @@ output: html_document
 + Codebook.md           -> Contains the description of the source and all steps
 + Data.zip              -> Contains the zipped raw data
 + FinalData.txt         -> Contains the final data set
-+ README.Rmd            -> Conatins this README file outlineing the folder and files
++ README.md            -> Conatins this README file outlineing the folder and files
 + WearableData.Rproject -> Contains the R Studio project packaging all these files
 + run_analysis.R        -> Contains source code with comments
 
