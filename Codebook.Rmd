@@ -2,7 +2,7 @@
 title: "Codebook"
 author: "Daniel Veit"
 date: "June 21, 2020"
-output: rmarkdown::github_document
+output: github_document
 ---
 
 The `run_analysis.R` script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
